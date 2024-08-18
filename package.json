@@ -1,0 +1,14 @@
+{
+  "name": "Zalo",
+  "version": "1.0.0",
+  "description": "Franz 5 Zalo Message Plugin",
+  "main": "index.js",
+  "author": "Hung <hungmjnsk@gmail.com>",
+  "license": "MIT",
+  "id": "zalo",
+  "config": {
+    "serviceURL": "https://chat.zalo.me",
+    "hasNotificationSound": true,
+    "message": "Fast, rich features message application for the enterprise"
+  }
+}
